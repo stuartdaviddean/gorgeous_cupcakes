@@ -2,7 +2,7 @@
 	//database connection details
 	$host = 'localhost';
 	$user = 'stuart';
-	$password = 'VerySecretPassword!';
+	$password = 'VerySecurePassword!';
 	$database = 'gorgeouscupcakes';
 
 	//connect to database with a try/catch statement
