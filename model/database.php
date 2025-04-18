@@ -1,8 +1,8 @@
 <?php
 	//database connection details
 	$host = 'localhost';
-	$user = 'root';
-	$password = '';
+	$user = 'stuart';
+	$password = 'VerySecretPassword!';
 	$database = 'gorgeous_cupcakes';
 
 	//connect to database with a try/catch statement
