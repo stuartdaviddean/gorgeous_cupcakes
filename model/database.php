@@ -1,9 +1,9 @@
 <?php
 	//database connection details
-	$host = 'localhost';
-	$user = 'stuart';
-	$password = 'VerySecurePassword!';
-	$database = 'gorgeouscupcakes';
+        $database = 'gorgeouscupcakes';
+        $user = 'stuart';
+        $password = 'VerySecurePassword!';
+        $host = 'gorgeouscupcakes.cinwy0g2829i.us-east-1.rds.amazonaws.com';
 
 	//connect to database with a try/catch statement
 	//if the connection is not successful display the error message via database_error.php
